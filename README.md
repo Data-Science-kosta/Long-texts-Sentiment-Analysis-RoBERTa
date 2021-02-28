@@ -68,7 +68,7 @@ Accuracy             |  Learning rate
 :-------------------------:|:-------------------------:
 ![acc](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/6.png)  |  ![lr](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/7.png)
 
-<center />
+</center>
   
 <p align="center">
 <img src="garbage/8.png" />
