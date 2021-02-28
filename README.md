@@ -59,3 +59,9 @@ State of the art result (86.11% cross-validation accuracy) for this task on the 
 </p>
 
 We can see that most of the wrongly classified examples have weak sentiment (score close to 5 and 6).
+
+# Training curves
+
+Confusion Matrix             |  Influence of Emotion intensity on correctness | lr
+:-------------------------:|:-------------------------:
+![acc](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/6.png)  |  ![lr](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/7.png) | ![acc and lr](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/8.png)
