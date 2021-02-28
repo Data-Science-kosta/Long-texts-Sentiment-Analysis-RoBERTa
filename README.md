@@ -52,4 +52,10 @@ The model achieves **79%** accuracy on the test set. Confusion matrix for the te
 <img src="garbage/4.png" />
 </p>
 
-State of the art result (86.11% cross-validation accuracy) for this task on the same dataset can be found [here](https://scindeks-clanci.ceon.rs/data/pdf/1821-3251/2017/1821-32511702104B.pdf). I believe that this score can be achieved with better tweaking of hyperparameters (in which I have not invested much time) and XLM-R large model (I have used base model since the large model could not fit into my GPU). Also you have to keep in mind that the test score depends on sentiment intensity of examples in the test set. This is shown below.
+State of the art result (86.11% cross-validation accuracy) for this task on the same dataset can be found [here](https://scindeks-clanci.ceon.rs/data/pdf/1821-3251/2017/1821-32511702104B.pdf). I believe that this score can be achieved with better tweaking of hyperparameters (in which I have not invested much time) and XLM-R large model (I have used base model, since the large model could not fit into my GPU). Also you have to keep in mind that the test score depends on sentiment intensity of examples in the test set. This is shown below.
+
+<p align="center">
+<img src="garbage/5.png" />
+</p>
+
+We can see that most of the wrongly classified examples have weak sentiment (score close to 5 and 6).
