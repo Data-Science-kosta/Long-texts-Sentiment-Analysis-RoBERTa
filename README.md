@@ -64,5 +64,5 @@ We can see that most of the wrongly classified examples have weak sentiment (sco
   
   Accuracy   |   Learning rate | Both
 :-----------:|:---------------:|:-----:
-<img src="garbage/6.png" width="600" height="300"/>  | <img src="garbage/7.png" width="600" height="300"/>  | <img src="garbage/8.png" width="600" height="300"/> 
+<img src="garbage/6.png" width="700" height="300"/>  | <img src="garbage/7.png" width="700" height="300"/>  | <img src="garbage/8.png" width="700" height="300"/> 
 
