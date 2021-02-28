@@ -31,7 +31,7 @@ Dataset is splitted into train, val and test sets with percentages respectively:
 Since we are dealing with large texts which probably can not fit into the [XLM-R](https://github.com/facebookresearch/XLM) model (which is around 512), we will need to split the text into multiple chunks and input each chunk separately through the model. After we get the vector representations of the contexts of each chunk we will join them into one with LSTM layer (there are various ways to do this, for example the easiest way would be to perform sum or average pooling on the contexts). I have chosen the LSTM out of learning purposes.<br /> 
 We will examine the distribution of number of tokens of texts to see how we can split the text to fit into our model (we will use [XLM-R Sentence Piece Tokenizer](https://huggingface.co/transformers/model_doc/xlmroberta.html#xlmrobertatokenizer) to tokenize the text):<br />
 <p align="center">
-<img src="garbage/2.png" width="600" height="400"/>
+<img src="garbage/2.png" width="700" height="500"/>
 </p>
 We can see that 1355 examples out of 1682 would not fit into our model!
 # Model
