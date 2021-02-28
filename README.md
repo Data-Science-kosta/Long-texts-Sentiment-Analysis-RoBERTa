@@ -24,5 +24,5 @@ Ovaj projekat će vas nasmejati, zbuniti i zadiviti, i on se sa razlogom smatra 
 </details>
 <br />
 Dataset is splitted into train, val and test sets with percentages respectively: 80%, 10%, 10%, in the way that new sets are balanced.<br />
-![dataset split](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/tree/main/garbage/1.png)
+![dataset_split](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/1.png)
 # Model
