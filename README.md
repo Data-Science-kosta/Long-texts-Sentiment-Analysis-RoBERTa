@@ -63,7 +63,7 @@ We can see that most of the wrongly classified examples have weak sentiment (sco
 # Training curves
   
 Accuracy     |        |  Learning rate
-:-------------------------:|:-------------------------:|:-------------------------:
+:-------------------------:|-------------------------|:-------------------------:
 ![acc](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/6.png)  | | ![lr](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/7.png)
 | Accuracy and learning rate  |  
 | ![acc](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/8.png) |
