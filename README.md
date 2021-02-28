@@ -22,6 +22,7 @@ Po mom mišljenju, „The Big Lebowski“ je jedno od najvećih dostignuća u mo
 Ovaj projekat će vas nasmejati, zbuniti i zadiviti, i on se sa razlogom smatra za jednu od najcenjenijih komedija od strane većine kritičara.`
 </p>
 </details>
+<br />
 Dataset is splitted into train, val and test sets with percentages respectively: 80%, 10%, 10%, in the way that new sets are balanced.
-![dataset split](garbage/1.png)
+![dataset split](garbage//1.png)
 # Model
