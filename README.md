@@ -64,5 +64,5 @@ We can see that most of the wrongly classified examples have weak sentiment (sco
   
   Accuracy   |   Learning rate | Both
 :-----------:|:---------------:|:-----:
-<img src="garbage/6.png" width="700" height="400"/>  | ![lr](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/7.png) | ![both](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/8.png) 
+<img src="garbage/6.png" width="600" height="300"/>  | ![lr](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/7.png) | ![both](https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa/blob/main/garbage/8.png) 
 
