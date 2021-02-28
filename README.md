@@ -42,6 +42,6 @@ We can see that 1355 examples out of 1682 would not fit into our model!
 # Model
 
 <p align="center">
-<img src="garbage/model_sa_MR_complete.png" width="700" height="500"/>
+<img src="garbage/model_sa_MR_complete.png" width="900" height="500"/>
 </p>
 
