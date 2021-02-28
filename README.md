@@ -40,7 +40,7 @@ We will examine the distribution of number of tokens of texts to see how we can 
 We can see that 1355 examples out of 1682 would not fit into our model!
 
 # Model
-
+In the notebook you can find the vectorized implementation of the complete model.
 <p align="center">
 <img src="garbage/model_sa_MR_complete.png" width="900" height="500"/>
 </p>
