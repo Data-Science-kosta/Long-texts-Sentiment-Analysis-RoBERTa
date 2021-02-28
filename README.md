@@ -25,7 +25,7 @@ Ovaj projekat će vas nasmejati, zbuniti i zadiviti, i on se sa razlogom smatra 
 <br />
 Dataset is splitted into train, val and test sets with percentages respectively: 80%, 10% and 10%, in the way that new sets are balanced.<br />
 <p align="center">
-<img src="garbage/1.png" width="800" height="600"/>
+<img src="garbage/1.png" width="400" height="600"/>
 </p>
 # Processing the data
 Since we are dealing with large texts which probably can not fit into the [XLM-R](https://github.com/facebookresearch/XLM) model (which is around 512), we will need to split the text into multiple chunks and input each chunk separately through the model. After we get the vector representations of the contexts of each chunk we will join them into one with LSTM layer (there are various ways to do this, for example the easiest way would be to perform sum or average pooling on the contexts). I have chosen the LSTM out of learning purposes.<br /> 
