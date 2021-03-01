@@ -68,8 +68,8 @@ We can see that most of the wrongly classified examples have weak sentiment (sco
 <img src="garbage/6.png" width="700" height="250"/>  | <img src="garbage/7.png" width="700" height="250"/>  | <img src="garbage/8.png" width="700" height="250"/>
 
 # Usage 
-`git clone https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa <br />
- cd Long-texts-Sentiment-Analysis-RoBERTa`
+`git clone https://github.com/Data-Science-kosta/Long-texts-Sentiment-Analysis-RoBERTa`
+`cd Long-texts-Sentiment-Analysis-RoBERTa`
  
  After that you can either upload entire folder on the Google Drive and run the notebook on Google Colaboratory or you can run it from the local machine and skip the *Connect to Google Drive section*.
 
