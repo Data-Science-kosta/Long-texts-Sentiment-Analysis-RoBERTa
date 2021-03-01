@@ -37,8 +37,9 @@ We will examine the distribution of number of tokens of texts to see how we can 
 <p align="center">
 <img src="garbage/2.png" width="700" height="500"/>
 </p>
-We can see that 1355 examples out of 1682 would not fit into our model!
+We can see that 1355 examples out of 1682 would not fit into our model! <br />
 We will split the text into chunks of 200 words, where the starting 50 words of each chunk are the last 50 words of the previous chunk (overlap is 50).
+
 # Model
 In the notebook you can find the vectorized implementation of the complete model.
 <p align="center">
